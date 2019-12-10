@@ -1,18 +1,14 @@
 {
-  "posts": [
-    {
-		"responses": [
-			{
-				"response_url": "http://localhost:7878/path/to/data",
-				"response_data": None,
-				"download": true,
-				"expiration": "2003-08-04 21:41:43.522000",
-				"request_id": "27456877-78ec-402e-871b-e6dde8b84fc9"
-			}
-		]
+	"posts": [{
+		"responses": [{
+			"response_url": "http://localhost:7878/path/to/data",
+			"response_data": "",
+			"download": true,
+			"expiration": "2003-08-04 21:41:43.522000",
+			"request_id": "27456877-78ec-402e-871b-e6dde8b84fc9"
+		}]
+	}],
+	"profile": {
+		"name": "mmccoy-im-test"
 	}
-  ],
-  "profile": {
-    "name": "mmccoy-im-test"
-  }
 }
