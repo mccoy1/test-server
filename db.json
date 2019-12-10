@@ -1,5 +1,5 @@
 {
-	"posts": {
+	"resolve": {
 		"responses": [{
 			"response_url": "http://localhost:7878/path/to/data",
 			"response_data": "",
