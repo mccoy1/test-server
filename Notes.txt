@@ -1,0 +1,4 @@
+java -jar bfg-1.13.0.jar --delete-folders "{hsg-ruleset}" test-bfg.git
+
+
+--no-blob-protection
